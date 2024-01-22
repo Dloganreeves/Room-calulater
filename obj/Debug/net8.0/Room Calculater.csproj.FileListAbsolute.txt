@@ -1,0 +1,14 @@
+C:\Users\logan\source\repos\Room Calculater\bin\Debug\net8.0\Room Calculater.exe
+C:\Users\logan\source\repos\Room Calculater\bin\Debug\net8.0\Room Calculater.deps.json
+C:\Users\logan\source\repos\Room Calculater\bin\Debug\net8.0\Room Calculater.runtimeconfig.json
+C:\Users\logan\source\repos\Room Calculater\bin\Debug\net8.0\Room Calculater.dll
+C:\Users\logan\source\repos\Room Calculater\bin\Debug\net8.0\Room Calculater.pdb
+C:\Users\logan\source\repos\Room Calculater\obj\Debug\net8.0\Room Calculater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\logan\source\repos\Room Calculater\obj\Debug\net8.0\Room Calculater.AssemblyInfoInputs.cache
+C:\Users\logan\source\repos\Room Calculater\obj\Debug\net8.0\Room Calculater.AssemblyInfo.cs
+C:\Users\logan\source\repos\Room Calculater\obj\Debug\net8.0\Room Calculater.csproj.CoreCompileInputs.cache
+C:\Users\logan\source\repos\Room Calculater\obj\Debug\net8.0\Room Calculater.dll
+C:\Users\logan\source\repos\Room Calculater\obj\Debug\net8.0\refint\Room Calculater.dll
+C:\Users\logan\source\repos\Room Calculater\obj\Debug\net8.0\Room Calculater.pdb
+C:\Users\logan\source\repos\Room Calculater\obj\Debug\net8.0\Room Calculater.genruntimeconfig.cache
+C:\Users\logan\source\repos\Room Calculater\obj\Debug\net8.0\ref\Room Calculater.dll
